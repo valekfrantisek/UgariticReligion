@@ -1,5 +1,7 @@
 # UgariticReligion
-Repository for the auxiliary materials of doctoral dissertation "Life Society and Politics in Relation to Religion at Ugarit in the Late Bronze Age"
+Repository for the auxiliary materials of doctoral dissertation "Life Society and Politics in Relation to Religion at Ugarit in the Late Bronze Age". The primary function of this repository is to share the database which is used for statistical analysis of the religion in the Ugaritic clusters of texts. The repository also includes jupyter notebook with functions that facilitate the statistical analysis.
+
+The thesis has not yet been defended, so it is not shared for now. It will be made available after the defence.
 
 ## Sources of the database
 The database has been created mainly with the use of RSTI (The Ras Shamra Tablet Inventory, [https://ochre.lib.uchicago.edu/RSTI/](https://ochre.lib.uchicago.edu/RSTI/), University of Chicago). The data have been further edited and enriched with the help od KTU3, UDB, TEO, Clemens 2001, and other encountered sources.
